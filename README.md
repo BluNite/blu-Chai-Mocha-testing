@@ -1,4 +1,4 @@
-# Mocha and Chai Testing
+## Mocha-Chai-Testing
 
 ![image info](assets/image/mocha_chai_image.png)
 
