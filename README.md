@@ -1,5 +1,6 @@
 ## Mocha-Chai-Testing
-( Arithmetic Testing )
+(Arithmetic Testing)
+
 ![image info](assets/image/mocha_chai_image.png)
 
 ## image credit cdn.hashmode.com/res/image/upload
