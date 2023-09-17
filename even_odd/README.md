@@ -36,7 +36,7 @@ In this activity you will be writing code to create a function that prints even 
 
 ### purposes and demonstration.
 
-Made by bluNite with love :blue_heart:
+Made with :blue_heart: by BluNite
 
 -- Credit and Rights
 
