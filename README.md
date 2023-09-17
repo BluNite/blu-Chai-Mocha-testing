@@ -19,8 +19,7 @@ To write code to create functions capable of different arithmetic operations.
 
 
 
-## Glitch.com ( This code can be refactored and edited on Glitch to work on your own remix/version in the code editor)
-  [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/BluNite/Chai-Mocha-testing/README.md)
+
 
 ## Instructions
 
