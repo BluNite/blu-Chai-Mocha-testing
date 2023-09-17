@@ -12,7 +12,7 @@ In this activity you will be writing code to create a function that prints even 
 
 ## Instructions 🚧
 
-- Open [even_odd.js](./even_odd.js) in your code editor&mdash;this is the only file you will modify in this activity.
+- Open [even_odd.js](./even.js) in your code editor&mdash;this is the only file you will modify in this activity.
 
   - In this file you will be writing code in the body of the `logEvenNums` function to achieve the following:
 
