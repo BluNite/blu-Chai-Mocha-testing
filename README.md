@@ -38,15 +38,13 @@ To write code to create functions capable of different arithmetic operations.
 
 ## Press the button/link below to connect to browser demo on Glitch.com
 
-<<<<<<< HEAD
-![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
-<a href ='https://elated-charm-pullover.glitch.me/test.html'><button> `Glitch Demo`</button></a>
-=======
+
+
 
 logo for Glitch.com
   ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
   <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
->>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
+
 
 
 
