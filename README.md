@@ -69,13 +69,12 @@ logo for Glitch.com
 
 - Remember to `return` a value from each function.
 
-<<<<<<< HEAD
+
 #### This exercise was reproduced for learning purposes and demonstration
 
 made with :blue_heart: by BluNite
 =======
-#### This exercise was reproduced for learning purposes and demonstration  with love :blue_heart:  by bluNite
->>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
+
 
 -- Credit and Rights
 
