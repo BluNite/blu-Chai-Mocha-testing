@@ -40,7 +40,7 @@ To write code to create functions capable of different arithmetic operations.
 ## Visual Example #1 in Browser
 
 ## Press the button/link below to connect to browser demo on Glitch.com 
-<a href ="elated-charm-pullover/glitch.me"><button>`Glitch`<button></a>
+<a href ="https://elated-charm-pullover/glitch.me/test.html"><button>`Glitch`<button></a>
 - open up the html file in the browser [test.html](test.html)
   ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png)
 
