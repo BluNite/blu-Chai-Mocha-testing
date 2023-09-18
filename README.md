@@ -14,7 +14,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
 ## Arithmetic
-
+<a href = 'https://glitch.com/edit/#!/elated-charm-pullover?path=README.md%3A1%3A0'><button>`Remix on Glitch`</button></a>
 Goal:
 To write code to create functions capable of different arithmetic operations.
 
@@ -51,7 +51,7 @@ logo for Glitch.com
 
 - to open up the html file for use in a text editor use [test.html](test.html)
   
- 
+ <a href = 'https://glitch.com/edit/#!/elated-charm-pullover?path=README.md%3A1%3A0'><button>`Remix on Glitch`</button></a>
 
 ## At each step check whether functions work properly by opening [test.html](test.html) in the web browser.
 
