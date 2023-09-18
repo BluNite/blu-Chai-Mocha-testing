@@ -1,4 +1,5 @@
 ## Mocha-Chai-Testing
+
 (Arithmetic Testing)
 
 ![image info](assets/image/mocha_chai_image.png)
@@ -17,10 +18,6 @@
 Goal:
 To write code to create functions capable of different arithmetic operations.
 
-
-
-
-
 ## Instructions
 
 - Open [arithmetic.js](./arithmetic.js) in your code editor&mdash;this is the only file you will modify in this activity.
@@ -34,15 +31,19 @@ To write code to create functions capable of different arithmetic operations.
   - `multiply` returns the result of `num1` times `num2`.
 
   - `divide` returns the result of `num1` divided by `num2`.
- 
+
   - ## Live https://blunite.github.io/blu-Chai-Mocha-testing/test.html
 
 ## Visual Example #1 in Browser
 
-## Press the button/link below to connect to browser demo on Glitch.com 
-<a href ='https://elated-charm-pullover.glitch.me/test.html'>`Glitch`</a>
-- open up the html file in the browser [test.html](test.html)
-  ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png)
+## Press the button/link below to connect to browser demo on Glitch.com
+
+- logo for Glitch.com
+  ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
+  <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
+
+- to open up the html file in the browser [test.html](test.html)
+- ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png)
 
 ## At each step check whether functions work properly by opening [test.html](test.html) in the web browser.
 
