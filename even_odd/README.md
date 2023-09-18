@@ -2,9 +2,7 @@
 
 ## #2 Log Even Numbers
 
-![DreamsTimeCoffeeCup](assets/../../cup-coffe-7182558-red.jpg)
-
-image credit\_'Dreamstime'
+<img style="width:300" src="assets/image/coffee-cup-14906958.webp"/>
 
 ## Goal
 
@@ -34,10 +32,9 @@ In this activity you will be writing code to create a function that prints even 
 
 ### This exercise was reproduced for learning
 
-### purposes and demonstration.
+### purposes and demonstration
 
 Made with :blue_heart: by BluNite
-
 -- Credit and Rights
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
