@@ -65,7 +65,7 @@ logo for Glitch.com
 
 - Remember to `return` a value from each function.
 
-#### This exercise was reproduced for learning purposes and demonstration by bluNite with love :blue_heart:
+#### This exercise was reproduced for learning purposes and demonstration  with love :blue_heart:  by bluNite
 
 -- Credit and Rights
 
