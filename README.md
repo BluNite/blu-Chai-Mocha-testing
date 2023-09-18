@@ -43,7 +43,7 @@ logo for Glitch.com
   ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
   <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
 
-<a href="https://glitch.com/edit/#!/elated-charm-pullover">Link to edit/refactor this code press'⚡ Remix' button at Glitch.com for free</a>
+<a href="https://glitch.com/edit/#!/elated-charm-pullover">Link to edit/practice with this code press '⚡ Remix' button at Glitch.com for free</a>
 
 
 - to open up the html file for use in a text editor use [test.html](test.html)
