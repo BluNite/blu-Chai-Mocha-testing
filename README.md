@@ -4,7 +4,7 @@
 
 ![image info](assets/image/mocha_chai_image.png)
 
-## image credit cdn.hashmode.com/res/image/upload
+ 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
