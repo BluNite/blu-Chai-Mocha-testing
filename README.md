@@ -50,6 +50,8 @@ logo for Glitch.com
 
 
 - to open up the html file for use in a text editor use [test.html](test.html)
+- Use Glitch Remix to open up a text editor to refactor this code for free.
+  
   
  <a href = 'https://glitch.com/edit/#!/elated-charm-pullover?path=README.md%3A1%3A0'><button>`Remix on Glitch`</button></a>
 
