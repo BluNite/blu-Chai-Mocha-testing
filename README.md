@@ -38,9 +38,12 @@ To write code to create functions capable of different arithmetic operations.
 
 ## Press the button/link below to connect to browser demo on Glitch.com
 
-- logo for Glitch.com
+logo for Glitch.com
   ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
   <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
+
+
+
 
 - to open up the html file in the browser [test.html](test.html)
 - ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png)
