@@ -47,7 +47,8 @@ logo for Glitch.com
 
 
 - to open up the html file for use in a text editor use [test.html](test.html)
- ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png
+  
+ 
 
 ## At each step check whether functions work properly by opening [test.html](test.html) in the web browser.
 
