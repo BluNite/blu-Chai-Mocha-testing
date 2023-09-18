@@ -37,7 +37,7 @@ To write code to create functions capable of different arithmetic operations.
 ## Visual Example #1 in Browser
 
 ## Press the button/link below to connect to browser demo on Glitch.com
-- You can edit/'Remix' this project @ <a href="https://elated-charm-pullover.glitch.me/README.md"><Link to README.md file on Glitch.com/a>
+- You can edit/'Remix' this project @ <a href="https://elated-charm-pullover.glitch.me"><Link to README.md file on Glitch.com</a>
 
 logo for Glitch.com
   ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
