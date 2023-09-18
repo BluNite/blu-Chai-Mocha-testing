@@ -38,11 +38,22 @@ To write code to create functions capable of different arithmetic operations.
 
 ## Press the button/link below to connect to browser demo on Glitch.com
 
+<<<<<<< HEAD
 ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
 <a href ='https://elated-charm-pullover.glitch.me/test.html'><button> `Glitch Demo`</button></a>
+=======
 
-- to open up the html file in the browser [test.html](test.html)
-- ![image info](assets/images/../image/mocha_chai_demo_multi_pic.png)
+logo for Glitch.com
+  ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
+  <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
+>>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
+
+
+
+
+- to open up the html file for use in a text editor use [test.html](test.html)
+  
+ 
 
 ## At each step check whether functions work properly by opening [test.html](test.html) in the web browser.
 
@@ -60,9 +71,13 @@ To write code to create functions capable of different arithmetic operations.
 
 - Remember to `return` a value from each function.
 
+<<<<<<< HEAD
 #### This exercise was reproduced for learning purposes and demonstration
 
 made with :blue_heart: by BluNite
+=======
+#### This exercise was reproduced for learning purposes and demonstration  with love :blue_heart:  by bluNite
+>>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
 
 -- Credit and Rights
 
