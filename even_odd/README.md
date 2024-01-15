@@ -35,6 +35,7 @@ In this activity you will be writing code to create a function that prints even 
 ### purposes and demonstration
 
 Made with :blue_heart: by BluNite
+
 -- Credit and Rights
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.

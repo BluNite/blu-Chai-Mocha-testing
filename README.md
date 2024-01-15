@@ -1,21 +1,22 @@
-## Mocha-Chai-Testing
+# Mocha-Chai-Testing
 
-(Arithmetic Testing)
+## Arithmetic Testing
 
 ![image info](assets/image/mocha_chai_image.png)
 
-## image credit cdn.hashmode.com/res/image/upload
+ 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge&logo=Chai&logoColor=white)
+![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
-## Arithmetic
+## GOAL
 
-Goal:
+
 To write code to create functions capable of different arithmetic operations.
 
 ## Instructions
@@ -32,28 +33,28 @@ To write code to create functions capable of different arithmetic operations.
 
   - `divide` returns the result of `num1` divided by `num2`.
 
-  - ## Live https://blunite.github.io/blu-Chai-Mocha-testing/test.html
+  
 
 ## Visual Example #1 in Browser
 
 ## Press the button/link below to connect to browser demo on Glitch.com
 
-<<<<<<< HEAD
-![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
-<a href ='https://elated-charm-pullover.glitch.me/test.html'><button> `Glitch Demo`</button></a>
-=======
+
+
 
 logo for Glitch.com
   ![image glitch logo](/assets/image/glitch_logo_icon_169106.png)
   <a href ='https://elated-charm-pullover.glitch.me/test.html'><button>`Glitch Demo`</button></a>
->>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
+
 
 
 
 
 - to open up the html file for use in a text editor use [test.html](test.html)
+- Use Glitch Remix to open up a text editor to refactor this code for free.
   
- 
+  
+ <a href = 'https://glitch.com/edit/#!/elated-charm-pullover?path=README.md%3A1%3A0'><button>`Remix on Glitch`</button></a>
 
 ## At each step check whether functions work properly by opening [test.html](test.html) in the web browser.
 
@@ -71,13 +72,12 @@ logo for Glitch.com
 
 - Remember to `return` a value from each function.
 
-<<<<<<< HEAD
+
 #### This exercise was reproduced for learning purposes and demonstration
 
 made with :blue_heart: by BluNite
 =======
-#### This exercise was reproduced for learning purposes and demonstration  with love :blue_heart:  by bluNite
->>>>>>> d499c6891b5455a71e0042e0f39c4a2ff23fb031
+
 
 -- Credit and Rights
 
